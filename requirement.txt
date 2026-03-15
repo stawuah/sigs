@@ -1,0 +1,7 @@
+ccxt==4.5.43
+numpy==2.2.6
+pandas==3.0.1
+pandas-ta==0.4.71b0
+psycopg2-binary==2.9.11
+requests==2.32.5
+python-dotenv==1.2.1
