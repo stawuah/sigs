@@ -70,7 +70,7 @@ API_KEY          = os.getenv("API_KEY", "")
 API_SECRET       = os.getenv("API_SECRET", "")
 TELEGRAM_TOKEN   = os.getenv("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
-DB_URL           = os.getenv("DB_URL", "postgresql://neondb_owner:npg_VCrkeTI37Rqh@ep-crimson-butterfly-a9t0xwpv-pooler.gwc.azure.neon.tech/neondb?sslmode=require&channel_binding=require")
+DB_URL           = os.getenv("DB_URL", "")
 
 SYMBOL           = "SOL/USDT"
 STARTING_CAPITAL = 50.0
