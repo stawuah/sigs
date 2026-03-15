@@ -40,3 +40,254 @@
 09:28:24  INFO        $88.3300 | Trend=dn | MACD=-0.0046 | RSI=51(ok) | Vol=0.1x(x) | EMA9=x
 09:28:24  INFO        Waiting: 5m trend down | MACD -0.0046 (no cross) | vol 0.1x | below EMA9
 09:28:24  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:28:32  INFO        $88.3300 | Trend=dn | MACD=-0.0046 | RSI=51(ok) | Vol=0.1x(x) | EMA9=x
+09:28:32  INFO        Waiting: 5m trend down | MACD -0.0046 (no cross) | vol 0.1x | below EMA9
+09:28:32  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:28:43  INFO        $88.3300 | Trend=dn | MACD=-0.0046 | RSI=51(ok) | Vol=0.1x(x) | EMA9=x
+09:28:43  INFO        Waiting: 5m trend down | MACD -0.0046 (no cross) | vol 0.1x | below EMA9
+09:28:43  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:28:54  INFO        $88.3300 | Trend=dn | MACD=-0.0046 | RSI=51(ok) | Vol=0.1x(x) | EMA9=x
+09:28:54  INFO        Waiting: 5m trend down | MACD -0.0046 (no cross) | vol 0.1x | below EMA9
+09:28:54  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:29:02  INFO        $88.3500 | Trend=dn | MACD=-0.0065 | RSI=53(ok) | Vol=1.9x(ok) | EMA9=x
+09:29:02  INFO        Waiting: 5m trend down | MACD -0.0065 (no cross) | below EMA9
+09:29:02  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:29:14  INFO        $88.3500 | Trend=dn | MACD=-0.0065 | RSI=53(ok) | Vol=1.9x(ok) | EMA9=x
+09:29:14  INFO        Waiting: 5m trend down | MACD -0.0065 (no cross) | below EMA9
+09:29:14  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:29:25  INFO        $88.3500 | Trend=dn | MACD=-0.0065 | RSI=53(ok) | Vol=1.9x(ok) | EMA9=x
+09:29:25  INFO        Waiting: 5m trend down | MACD -0.0065 (no cross) | below EMA9
+09:29:25  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:29:33  INFO        $88.3500 | Trend=dn | MACD=-0.0065 | RSI=53(ok) | Vol=1.9x(ok) | EMA9=x
+09:29:33  INFO        Waiting: 5m trend down | MACD -0.0065 (no cross) | below EMA9
+09:29:33  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:29:44  INFO        $88.3500 | Trend=dn | MACD=-0.0065 | RSI=53(ok) | Vol=1.9x(ok) | EMA9=x
+09:29:44  INFO        Waiting: 5m trend down | MACD -0.0065 (no cross) | below EMA9
+09:29:44  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:29:55  INFO        $88.3500 | Trend=dn | MACD=-0.0065 | RSI=53(ok) | Vol=1.9x(ok) | EMA9=x
+09:29:55  INFO        Waiting: 5m trend down | MACD -0.0065 (no cross) | below EMA9
+09:29:55  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:30:04  INFO        $88.3300 | Trend=dn | MACD=-0.0090 | RSI=51(ok) | Vol=0.3x(x) | EMA9=x
+09:30:04  INFO        Waiting: 5m trend down | MACD -0.0090 (no cross) | vol 0.3x | below EMA9
+09:30:04  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:30:14  INFO        $88.3300 | Trend=dn | MACD=-0.0090 | RSI=51(ok) | Vol=0.3x(x) | EMA9=x
+09:30:14  INFO        Waiting: 5m trend down | MACD -0.0090 (no cross) | vol 0.3x | below EMA9
+09:30:14  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:30:25  INFO      ─────────────────────────────────────────────────────────────────
+09:30:25  INFO        MARKET  08:30 UTC  |  🟢 EU open  ★★★★★
+09:30:25  INFO        Price 24h : +1.03%  |  Volatility: normal (1.2x)
+09:30:25  INFO        Volume    : fading (0.7x) 📉  |  Conditions: PRIME conditions (8/10) 🔥
+09:30:25  INFO      ─────────────────────────────────────────────────────────────────
+09:30:26  INFO        $88.3300 | Trend=dn | MACD=-0.0090 | RSI=51(ok) | Vol=0.3x(x) | EMA9=x
+09:30:26  INFO        Waiting: 5m trend down | MACD -0.0090 (no cross) | vol 0.3x | below EMA9
+09:30:26  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:30:34  INFO        $88.3300 | Trend=dn | MACD=-0.0090 | RSI=51(ok) | Vol=0.3x(x) | EMA9=x
+09:30:34  INFO        Waiting: 5m trend down | MACD -0.0090 (no cross) | vol 0.3x | below EMA9
+09:30:34  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:30:46  INFO        $88.3300 | Trend=dn | MACD=-0.0090 | RSI=51(ok) | Vol=0.3x(x) | EMA9=x
+09:30:46  INFO        Waiting: 5m trend down | MACD -0.0090 (no cross) | vol 0.3x | below EMA9
+09:30:46  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:30:57  INFO        $88.3300 | Trend=dn | MACD=-0.0090 | RSI=51(ok) | Vol=0.3x(x) | EMA9=x
+09:30:57  INFO        Waiting: 5m trend down | MACD -0.0090 (no cross) | vol 0.3x | below EMA9
+09:30:57  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:31:05  INFO        $88.3400 | Trend=dn | MACD=-0.0098 | RSI=52(ok) | Vol=2.2x(ok) | EMA9=x
+09:31:05  INFO        Waiting: 5m trend down | MACD -0.0098 (no cross) | below EMA9
+09:31:05  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:31:16  INFO        $88.3400 | Trend=dn | MACD=-0.0098 | RSI=52(ok) | Vol=2.2x(ok) | EMA9=x
+09:31:16  INFO        Waiting: 5m trend down | MACD -0.0098 (no cross) | below EMA9
+09:31:16  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:31:27  INFO        $88.3400 | Trend=dn | MACD=-0.0098 | RSI=52(ok) | Vol=2.2x(ok) | EMA9=x
+09:31:27  INFO        Waiting: 5m trend down | MACD -0.0098 (no cross) | below EMA9
+09:31:27  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:31:35  INFO        $88.3400 | Trend=dn | MACD=-0.0098 | RSI=52(ok) | Vol=2.2x(ok) | EMA9=x
+09:31:35  INFO        Waiting: 5m trend down | MACD -0.0098 (no cross) | below EMA9
+09:31:35  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:31:46  INFO        $88.3400 | Trend=dn | MACD=-0.0098 | RSI=52(ok) | Vol=2.2x(ok) | EMA9=x
+09:31:46  INFO        Waiting: 5m trend down | MACD -0.0098 (no cross) | below EMA9
+09:31:46  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:31:57  INFO        $88.3400 | Trend=dn | MACD=-0.0098 | RSI=52(ok) | Vol=2.2x(ok) | EMA9=x
+09:31:57  INFO        Waiting: 5m trend down | MACD -0.0098 (no cross) | below EMA9
+09:31:57  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:32:05  INFO        $88.2700 | Trend=dn | MACD=-0.0146 | RSI=44(ok) | Vol=0.4x(x) | EMA9=x
+09:32:05  INFO        Waiting: 5m trend down | MACD -0.0146 (no cross) | vol 0.4x | below EMA9
+09:32:05  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:32:16  INFO        $88.2700 | Trend=dn | MACD=-0.0146 | RSI=44(ok) | Vol=0.4x(x) | EMA9=x
+09:32:16  INFO        Waiting: 5m trend down | MACD -0.0146 (no cross) | vol 0.4x | below EMA9
+09:32:16  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:32:25  INFO        $88.2700 | Trend=dn | MACD=-0.0146 | RSI=44(ok) | Vol=0.4x(x) | EMA9=x
+09:32:25  INFO        Waiting: 5m trend down | MACD -0.0146 (no cross) | vol 0.4x | below EMA9
+09:32:25  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:32:36  INFO        $88.2700 | Trend=dn | MACD=-0.0146 | RSI=44(ok) | Vol=0.4x(x) | EMA9=x
+09:32:36  INFO        Waiting: 5m trend down | MACD -0.0146 (no cross) | vol 0.4x | below EMA9
+09:32:36  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:32:47  INFO        $88.2700 | Trend=dn | MACD=-0.0146 | RSI=44(ok) | Vol=0.4x(x) | EMA9=x
+09:32:47  INFO        Waiting: 5m trend down | MACD -0.0146 (no cross) | vol 0.4x | below EMA9
+09:32:47  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:32:55  INFO        $88.2700 | Trend=dn | MACD=-0.0146 | RSI=44(ok) | Vol=0.4x(x) | EMA9=x
+09:32:55  INFO        Waiting: 5m trend down | MACD -0.0146 (no cross) | vol 0.4x | below EMA9
+09:32:55  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:33:06  INFO        $88.3000 | Trend=dn | MACD=-0.0152 | RSI=48(ok) | Vol=1.2x(x) | EMA9=x
+09:33:06  INFO        Waiting: 5m trend down | MACD -0.0152 (no cross) | vol 1.2x | below EMA9
+09:33:06  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:33:17  INFO        $88.3000 | Trend=dn | MACD=-0.0152 | RSI=48(ok) | Vol=1.2x(x) | EMA9=x
+09:33:17  INFO        Waiting: 5m trend down | MACD -0.0152 (no cross) | vol 1.2x | below EMA9
+09:33:17  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:33:27  INFO      ─────────────────────────────────────────────────────────────────
+09:33:27  INFO        MARKET  08:33 UTC  |  🟢 EU open  ★★★★★
+09:33:27  INFO        Price 24h : +1.04%  |  Volatility: normal (1.2x)
+09:33:27  INFO        Volume    : fading (0.7x) 📉  |  Conditions: PRIME conditions (8/10) 🔥
+09:33:27  INFO      ─────────────────────────────────────────────────────────────────
+09:33:28  INFO        $88.3000 | Trend=dn | MACD=-0.0152 | RSI=48(ok) | Vol=1.2x(x) | EMA9=x
+09:33:28  INFO        Waiting: 5m trend down | MACD -0.0152 (no cross) | vol 1.2x | below EMA9
+09:33:28  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:33:39  INFO        $88.3000 | Trend=dn | MACD=-0.0152 | RSI=48(ok) | Vol=1.2x(x) | EMA9=x
+09:33:39  INFO        Waiting: 5m trend down | MACD -0.0152 (no cross) | vol 1.2x | below EMA9
+09:33:39  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:33:50  INFO        $88.3000 | Trend=dn | MACD=-0.0152 | RSI=48(ok) | Vol=1.2x(x) | EMA9=x
+09:33:50  INFO        Waiting: 5m trend down | MACD -0.0152 (no cross) | vol 1.2x | below EMA9
+09:33:50  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:33:58  INFO        $88.3000 | Trend=dn | MACD=-0.0152 | RSI=48(ok) | Vol=1.2x(x) | EMA9=x
+09:33:58  INFO        Waiting: 5m trend down | MACD -0.0152 (no cross) | vol 1.2x | below EMA9
+09:33:58  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:34:09  INFO        $88.2900 | Trend=dn | MACD=-0.0156 | RSI=46(ok) | Vol=0.2x(x) | EMA9=x
+09:34:09  INFO        Waiting: 5m trend down | MACD -0.0156 (no cross) | vol 0.2x | below EMA9
+09:34:09  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:34:20  INFO        $88.2900 | Trend=dn | MACD=-0.0156 | RSI=46(ok) | Vol=0.2x(x) | EMA9=x
+09:34:20  INFO        Waiting: 5m trend down | MACD -0.0156 (no cross) | vol 0.2x | below EMA9
+09:34:20  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:34:29  INFO        $88.2900 | Trend=dn | MACD=-0.0156 | RSI=46(ok) | Vol=0.2x(x) | EMA9=x
+09:34:29  INFO        Waiting: 5m trend down | MACD -0.0156 (no cross) | vol 0.2x | below EMA9
+09:34:29  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:34:40  INFO        $88.2900 | Trend=dn | MACD=-0.0156 | RSI=46(ok) | Vol=0.2x(x) | EMA9=x
+09:34:40  INFO        Waiting: 5m trend down | MACD -0.0156 (no cross) | vol 0.2x | below EMA9
+09:34:40  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:34:51  INFO        $88.2900 | Trend=dn | MACD=-0.0156 | RSI=46(ok) | Vol=0.2x(x) | EMA9=x
+09:34:51  INFO        Waiting: 5m trend down | MACD -0.0156 (no cross) | vol 0.2x | below EMA9
+09:34:51  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:34:59  INFO        $88.2900 | Trend=dn | MACD=-0.0156 | RSI=46(ok) | Vol=0.2x(x) | EMA9=x
+09:34:59  INFO        Waiting: 5m trend down | MACD -0.0156 (no cross) | vol 0.2x | below EMA9
+09:34:59  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:35:10  INFO        $88.2800 | Trend=dn | MACD=-0.0159 | RSI=45(ok) | Vol=0.4x(x) | EMA9=x
+09:35:10  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.4x | below EMA9
+09:35:10  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:35:21  INFO        $88.2800 | Trend=dn | MACD=-0.0159 | RSI=45(ok) | Vol=0.4x(x) | EMA9=x
+09:35:21  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.4x | below EMA9
+09:35:21  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:35:29  INFO        $88.2800 | Trend=dn | MACD=-0.0159 | RSI=45(ok) | Vol=0.4x(x) | EMA9=x
+09:35:29  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.4x | below EMA9
+09:35:29  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:35:41  INFO        $88.2800 | Trend=dn | MACD=-0.0159 | RSI=45(ok) | Vol=0.4x(x) | EMA9=x
+09:35:41  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.4x | below EMA9
+09:35:41  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:35:52  INFO        $88.2800 | Trend=dn | MACD=-0.0159 | RSI=45(ok) | Vol=0.4x(x) | EMA9=x
+09:35:52  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.4x | below EMA9
+09:35:52  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:36:00  INFO        $88.2800 | Trend=dn | MACD=-0.0159 | RSI=45(ok) | Vol=0.4x(x) | EMA9=x
+09:36:00  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.4x | below EMA9
+09:36:00  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:36:11  INFO        $88.2600 | Trend=dn | MACD=-0.0167 | RSI=43(ok) | Vol=0.5x(x) | EMA9=x
+09:36:11  INFO        Waiting: 5m trend down | MACD -0.0167 (no cross) | vol 0.5x | below EMA9
+09:36:11  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:36:22  INFO        $88.2600 | Trend=dn | MACD=-0.0167 | RSI=43(ok) | Vol=0.5x(x) | EMA9=x
+09:36:22  INFO        Waiting: 5m trend down | MACD -0.0167 (no cross) | vol 0.5x | below EMA9
+09:36:22  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:36:30  INFO      ─────────────────────────────────────────────────────────────────
+09:36:30  INFO        MARKET  08:36 UTC  |  🟢 EU open  ★★★★★
+09:36:30  INFO        Price 24h : +1.03%  |  Volatility: normal (1.1x)
+09:36:30  INFO        Volume    : fading (0.6x) 📉  |  Conditions: PRIME conditions (8/10) 🔥
+09:36:30  INFO      ─────────────────────────────────────────────────────────────────
+09:36:31  INFO        $88.2600 | Trend=dn | MACD=-0.0167 | RSI=43(ok) | Vol=0.5x(x) | EMA9=x
+09:36:31  INFO        Waiting: 5m trend down | MACD -0.0167 (no cross) | vol 0.5x | below EMA9
+09:36:31  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:36:42  INFO        $88.2600 | Trend=dn | MACD=-0.0167 | RSI=43(ok) | Vol=0.5x(x) | EMA9=x
+09:36:42  INFO        Waiting: 5m trend down | MACD -0.0167 (no cross) | vol 0.5x | below EMA9
+09:36:42  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:36:52  INFO        $88.2600 | Trend=dn | MACD=-0.0167 | RSI=43(ok) | Vol=0.5x(x) | EMA9=x
+09:36:52  INFO        Waiting: 5m trend down | MACD -0.0167 (no cross) | vol 0.5x | below EMA9
+09:36:52  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:37:01  INFO        $88.2600 | Trend=dn | MACD=-0.0167 | RSI=43(ok) | Vol=0.5x(x) | EMA9=x
+09:37:01  INFO        Waiting: 5m trend down | MACD -0.0167 (no cross) | vol 0.5x | below EMA9
+09:37:01  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:37:13  INFO        $88.2500 | Trend=dn | MACD=-0.0171 | RSI=42(x) | Vol=4.8x(ok) | EMA9=x
+09:37:13  INFO        Waiting: 5m trend down | MACD -0.0171 (no cross) | RSI 42 | below EMA9
+09:37:13  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:37:23  INFO        $88.2500 | Trend=dn | MACD=-0.0171 | RSI=42(x) | Vol=4.8x(ok) | EMA9=x
+09:37:23  INFO        Waiting: 5m trend down | MACD -0.0171 (no cross) | RSI 42 | below EMA9
+09:37:23  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:37:34  INFO        $88.2500 | Trend=dn | MACD=-0.0171 | RSI=42(x) | Vol=4.8x(ok) | EMA9=x
+09:37:34  INFO        Waiting: 5m trend down | MACD -0.0171 (no cross) | RSI 42 | below EMA9
+09:37:34  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:37:45  INFO        $88.2500 | Trend=dn | MACD=-0.0171 | RSI=42(x) | Vol=4.8x(ok) | EMA9=x
+09:37:45  INFO        Waiting: 5m trend down | MACD -0.0171 (no cross) | RSI 42 | below EMA9
+09:37:45  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:37:56  INFO        $88.2500 | Trend=dn | MACD=-0.0171 | RSI=42(x) | Vol=4.8x(ok) | EMA9=x
+09:37:56  INFO        Waiting: 5m trend down | MACD -0.0171 (no cross) | RSI 42 | below EMA9
+09:37:56  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:38:03  INFO        $88.2600 | Trend=dn | MACD=-0.0159 | RSI=43(ok) | Vol=0.8x(x) | EMA9=x
+09:38:03  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.8x | below EMA9
+09:38:03  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:38:13  INFO        $88.2600 | Trend=dn | MACD=-0.0159 | RSI=43(ok) | Vol=0.8x(x) | EMA9=x
+09:38:13  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.8x | below EMA9
+09:38:13  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:38:25  INFO        $88.2600 | Trend=dn | MACD=-0.0159 | RSI=43(ok) | Vol=0.8x(x) | EMA9=x
+09:38:25  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.8x | below EMA9
+09:38:25  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:38:37  INFO        $88.2600 | Trend=dn | MACD=-0.0159 | RSI=43(ok) | Vol=0.8x(x) | EMA9=x
+09:38:37  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.8x | below EMA9
+09:38:37  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:38:48  INFO        $88.2600 | Trend=dn | MACD=-0.0159 | RSI=43(ok) | Vol=0.8x(x) | EMA9=x
+09:38:48  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.8x | below EMA9
+09:38:48  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:38:59  INFO        $88.2600 | Trend=dn | MACD=-0.0159 | RSI=43(ok) | Vol=0.8x(x) | EMA9=x
+09:38:59  INFO        Waiting: 5m trend down | MACD -0.0159 (no cross) | vol 0.8x | below EMA9
+09:38:59  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:39:09  INFO        $88.2700 | Trend=dn | MACD=-0.0137 | RSI=45(ok) | Vol=1.8x(ok) | EMA9=x
+09:39:09  INFO        Waiting: 5m trend down | MACD -0.0137 (no cross) | below EMA9
+09:39:09  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:39:19  INFO        $88.2700 | Trend=dn | MACD=-0.0137 | RSI=45(ok) | Vol=1.8x(ok) | EMA9=x
+09:39:19  INFO        Waiting: 5m trend down | MACD -0.0137 (no cross) | below EMA9
+09:39:19  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:39:30  INFO        $88.2700 | Trend=dn | MACD=-0.0137 | RSI=45(ok) | Vol=1.8x(ok) | EMA9=x
+09:39:30  INFO        Waiting: 5m trend down | MACD -0.0137 (no cross) | below EMA9
+09:39:30  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:39:39  INFO      ─────────────────────────────────────────────────────────────────
+09:39:39  INFO        MARKET  08:39 UTC  |  🟢 EU open  ★★★★★
+09:39:39  INFO        Price 24h : +1.20%  |  Volatility: normal (1.1x)
+09:39:39  INFO        Volume    : fading (0.6x) 📉  |  Conditions: PRIME conditions (8/10) 🔥
+09:39:39  INFO      ─────────────────────────────────────────────────────────────────
+09:39:40  INFO        $88.2700 | Trend=dn | MACD=-0.0137 | RSI=45(ok) | Vol=1.8x(ok) | EMA9=x
+09:39:40  INFO        Waiting: 5m trend down | MACD -0.0137 (no cross) | below EMA9
+09:39:40  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:39:51  INFO        $88.2700 | Trend=dn | MACD=-0.0137 | RSI=45(ok) | Vol=1.8x(ok) | EMA9=x
+09:39:51  INFO        Waiting: 5m trend down | MACD -0.0137 (no cross) | below EMA9
+09:39:51  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:40:02  INFO        $88.2700 | Trend=dn | MACD=-0.0137 | RSI=45(ok) | Vol=1.8x(ok) | EMA9=x
+09:40:02  INFO        Waiting: 5m trend down | MACD -0.0137 (no cross) | below EMA9
+09:40:02  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:40:11  INFO        $88.2900 | Trend=dn | MACD=-0.0104 | RSI=48(ok) | Vol=0.2x(x) | EMA9=ok
+09:40:11  INFO        Waiting: 5m trend down | MACD -0.0104 (no cross) | vol 0.2x
+09:40:11  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:40:22  INFO        $88.2900 | Trend=dn | MACD=-0.0104 | RSI=48(ok) | Vol=0.2x(x) | EMA9=ok
+09:40:22  INFO        Waiting: 5m trend down | MACD -0.0104 (no cross) | vol 0.2x
+09:40:22  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:40:33  INFO        $88.2900 | Trend=dn | MACD=-0.0104 | RSI=48(ok) | Vol=0.2x(x) | EMA9=ok
+09:40:33  INFO        Waiting: 5m trend down | MACD -0.0104 (no cross) | vol 0.2x
+09:40:33  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:40:41  INFO        $88.2900 | Trend=dn | MACD=-0.0104 | RSI=48(ok) | Vol=0.2x(x) | EMA9=ok
+09:40:41  INFO        Waiting: 5m trend down | MACD -0.0104 (no cross) | vol 0.2x
+09:40:41  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:40:52  INFO        $88.2900 | Trend=dn | MACD=-0.0104 | RSI=48(ok) | Vol=0.2x(x) | EMA9=ok
+09:40:52  INFO        Waiting: 5m trend down | MACD -0.0104 (no cross) | vol 0.2x
+09:40:52  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:41:04  INFO        $88.2800 | Trend=dn | MACD=-0.0084 | RSI=47(ok) | Vol=1.1x(x) | EMA9=x
+09:41:04  INFO        Waiting: 5m trend down | MACD -0.0084 (no cross) | vol 1.1x | below EMA9
+09:41:04  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:41:12  INFO        $88.2800 | Trend=dn | MACD=-0.0084 | RSI=47(ok) | Vol=1.1x(x) | EMA9=x
+09:41:12  INFO        Waiting: 5m trend down | MACD -0.0084 (no cross) | vol 1.1x | below EMA9
+09:41:12  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:41:23  INFO        $88.2800 | Trend=dn | MACD=-0.0084 | RSI=47(ok) | Vol=1.1x(x) | EMA9=x
+09:41:23  INFO        Waiting: 5m trend down | MACD -0.0084 (no cross) | vol 1.1x | below EMA9
+09:41:23  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
+09:41:34  INFO        $88.2800 | Trend=dn | MACD=-0.0084 | RSI=47(ok) | Vol=1.1x(x) | EMA9=x
+09:41:34  INFO        Waiting: 5m trend down | MACD -0.0084 (no cross) | vol 1.1x | below EMA9
+09:41:34  INFO        Capital: $50.00 | Day P&L: $+0.00 / $2.00 goal | Trades: 0 | W/L: 0/0 (—)
